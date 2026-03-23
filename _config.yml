@@ -4,7 +4,7 @@ baseurl: ""
 url: https://icfi2026conf.github.io
 
 permalink: pretty
-theme: jekyll-nagymaros
+remote_theme: piazzai/jekyll-nagymaros
 
 home: /
 copyright: International College, Providence University
@@ -20,6 +20,7 @@ exclude:
   - jekyll-nagymaros.gemspec
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
 
