@@ -1,0 +1,27 @@
+title: ICFI 2026
+description: International Conference on Future Innovation (國際未來創新研討會)
+baseurl: ""
+url: https://icfi2026conf.github.io
+
+permalink: pretty
+theme: jekyll-nagymaros
+
+home: /
+copyright: International College, Providence University
+indexing: true
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+  - demo/
+  - docs/
+  - jekyll-nagymaros.gemspec
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never

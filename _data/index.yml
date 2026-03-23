@@ -1,0 +1,14 @@
+alerts:
+  - title: "Registration Open!"
+    text: "Paper submission deadline: April 15, 2026. This conference has no registration fee."
+    color: green-1
+  - title: "Conference Date"
+    text: "May 15, 2026, 9:00 AM - 5:00 PM at St. Francis Hall Building, Providence University"
+    color: blue-1
+buttons:
+  - text: Register Now
+    url: https://docs.google.com/forms/d/e/1FAIpQLSexoZ4AgS7kdm-yDmKR5mdmeT0BH8a-CkHa9PyhANyUUzWc5Q/viewform
+    disabled: false
+  - text: Submit Paper
+    url: "#"
+    disabled: true

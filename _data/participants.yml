@@ -1,0 +1,9 @@
+groups:
+  - title: Organizing Committee
+    sort: false
+    columns: false
+    members:
+      - name: International College
+        surname: Providence University
+        email: rukhire@gm.pu.edu.tw
+        affil: Providence University, Taiwan

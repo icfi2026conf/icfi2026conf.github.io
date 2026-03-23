@@ -1,0 +1,41 @@
+legend:
+  title: Session Types
+  categories:
+    - name: Keynote
+      color: blue-6
+    - name: Paper Session
+      color: teal-6
+    - name: Break
+      color: grey-6
+days:
+  - name: May 15, 2026
+    events:
+      - time: 9:00 to 9:30
+        title: Registration & Opening
+      - time: 9:30 to 10:30
+        title: Keynote Session
+        subtitle: To be announced
+        category: Keynote
+      - time: 10:30 to 10:45
+        title: Coffee Break
+        category: Break
+      - time: 10:45 to 12:00
+        title: Paper Session I
+        subtitle: Future Innovation Research
+        category: Paper Session
+      - time: 12:00 to 13:00
+        title: Lunch Break
+        category: Break
+      - time: 13:00 to 14:30
+        title: Paper Session II
+        subtitle: Technology and Innovation
+        category: Paper Session
+      - time: 14:30 to 14:45
+        title: Coffee Break
+        category: Break
+      - time: 14:45 to 16:30
+        title: Paper Session III
+        subtitle: Innovation Applications
+        category: Paper Session
+      - time: 16:30 to 17:00
+        title: Closing Ceremony
