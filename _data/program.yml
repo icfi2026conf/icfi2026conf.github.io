@@ -7,35 +7,115 @@ legend:
       color: teal-6
     - name: Break
       color: grey-6
+    - name: Opening
+      color: indigo-6
 days:
-  - name: May 15, 2026
+  - name: "Morning Session — Conference Room, 1F, St. Francis Hall"
     events:
-      - time: 9:00 to 9:30
-        title: Registration & Opening
-      - time: 9:30 to 10:30
-        title: Keynote Session
-        subtitle: To be announced
+      - time: "09:10 to 09:40"
+        title: Registration
+      - time: "09:40 to 09:45"
+        title: "Vice President's Address"
+        subtitle: "Prof. Chao-Hsun Yang"
+        category: Opening
+      - time: "09:45 to 09:50"
+        title: Opening Remarks
+        subtitle: "Prof. Tsai Ying-De, Dean International College"
+        category: Opening
+      - time: "09:50 to 10:20"
+        title: Keynote Speech
+        subtitle: "Prof. Bertrand M.T. Lin"
         category: Keynote
-      - time: 10:30 to 10:45
-        title: Coffee Break
+      - time: "10:20 to 10:35"
+        title: Tea Break
         category: Break
-      - time: 10:45 to 12:00
-        title: Paper Session I
-        subtitle: Future Innovation Research
+
+  - name: "Session I — Conference Room, 1F, St. Francis Hall"
+    events:
+      - time: "10:35 to 10:55"
+        title: "LKAP: LLM-based Knowledge Mapping and Auto-tagging Platform for Programming Education"
+        subtitle: "Yueh-Ling Kuo, Jhih-Yun Wu, Hsueh-Ting Chu"
         category: Paper Session
-      - time: 12:00 to 13:00
+      - time: "10:55 to 11:15"
+        title: "Agentic AI for Content Creation in Marketing Campaign: A Case Study on Value Chain Analysis"
+        subtitle: "Tammy Wang"
+        category: Paper Session
+      - time: "11:15 to 11:35"
+        title: "Impact-Oriented Management Control Systems: A Systematic Literature Review and Research Agenda"
+        subtitle: "Edoardo Crocco, Lorenzo Brusco, Francesca Culasso, Massimo Cane"
+        category: Paper Session
+      - time: "11:35 to 11:55"
+        title: "Supporting the Future Workforce: The Role of Organizational Support and Culture in Shaping Work–Life Balance among Young Professionals in Taiwan and Mongolia"
+        subtitle: "Bayarmaa Bayanjargal, Yun-Hsi Chang"
+        category: Paper Session
+      - time: "12:00 to 13:00"
         title: Lunch Break
         category: Break
-      - time: 13:00 to 14:30
-        title: Paper Session II
-        subtitle: Technology and Innovation
+
+  - name: "Session II-A — Conference Room, 1F, St. Francis Hall"
+    events:
+      - time: "13:00 to 13:20"
+        title: "What Really Drives Airline Loyalty? Evidence from ASEAN and Taiwanese Passengers"
+        subtitle: "Pattaraphong Yawichai, Shu-Hsun Ho"
         category: Paper Session
-      - time: 14:30 to 14:45
+      - time: "13:20 to 13:40"
+        title: "Building an Agent-Based Programming Learning Platform: Syntax Disambiguation and Error Correction for EFL Students"
+        subtitle: "Jin-Xiang Lin, Yu-Hsuan Cheng, Hsueh-Ting Chu"
+        category: Paper Session
+      - time: "13:40 to 14:00"
+        title: "The Role of Financial Performance, Valuation Metrics, and R&D Expenditure in Determining NVIDIA Stock Price: ARDL Approach"
+        subtitle: "Banele Siboniso Dlamini, Rushikesh Ulhas Khire"
+        category: Paper Session
+      - time: "14:00 to 14:20"
+        title: "Willingness to Adopt Environmentally Friendly Packaging among E-commerce Sellers in Hanoi, Vietnam"
+        subtitle: "Nguyen Ha Trang, Ching-Mei Cheng"
+        category: Paper Session
+      - time: "14:20 to 14:30"
         title: Coffee Break
         category: Break
-      - time: 14:45 to 16:30
-        title: Paper Session III
-        subtitle: Innovation Applications
+      - time: "14:30 to 14:50"
+        title: "A Dual Object Detection for Drone SAR"
+        subtitle: "Chien-Feng Chang, Min-Hsuan Li, Karisma Trinanda Putra, Muhamad Yusvin Mustar, Hsing-Chung Chen, Hsueh-Ting Chu"
         category: Paper Session
-      - time: 16:30 to 17:00
-        title: Closing Ceremony
+      - time: "14:50 to 15:10"
+        title: "The Role of Cultural Background Among International Students in Taiwan"
+        subtitle: "Tsering Disket, Huang, Daphne Li-Jung"
+        category: Paper Session
+      - time: "15:10 to 15:30"
+        title: "Environmental Fee Implementation for Local Residents and Tourists"
+        subtitle: "Mathis Roch, Ronah Atukunda, James John Sarmiento, Jharvee Ramos, Rushikesh Ulhas Khire"
+        category: Paper Session
+
+  - name: "Session II-B — Room 117, 1F, St. Francis Hall"
+    events:
+      - time: "13:00 to 13:20"
+        title: "Digital Twin for Predictive Manufacturing of 3D-Printed Sole Molds"
+        subtitle: "Yiji Chen, Hsueh-Ting Chu, Hsin-Ming Tseng, Min-Hsuan Li"
+        category: Paper Session
+      - time: "13:20 to 13:40"
+        title: "Intention of International Students Participating in the Mazu Festival in Taiwan"
+        subtitle: "Shuvalakshmi Roy, Shu-Hsun Ho"
+        category: Paper Session
+      - time: "13:40 to 14:00"
+        title: "Understanding the Current Status and Challenges of Contemporary Indigenous Tourism in Taiwan"
+        subtitle: "Sonin Uchral Batjargal, Kelly Chiu, Rushikesh Ulhas Khire"
+        category: Paper Session
+      - time: "14:00 to 14:20"
+        title: "Factors Influencing Airline Choice Behavior: A Comparative Study of International Students, Business Travelers, and Older Adults"
+        subtitle: "Pratoomrat Sripawong, Shu-Hsun Ho"
+        category: Paper Session
+      - time: "14:20 to 14:30"
+        title: Coffee Break
+        category: Break
+      - time: "14:30 to 14:50"
+        title: "The Impact of Social Media Communication and Information Quality on Repurchase Intention among Indonesian Migrant Workers: A Case Study of UNIQLO in Taiwan"
+        subtitle: "Muhammad Nur Ikhsan, Rushikesh Ulhas Khire"
+        category: Paper Session
+      - time: "14:50 to 15:10"
+        title: "Beyond the Scroll: How Instagram's Aesthetic Quality and TikTok's Visual Authenticity Differentially Shape Generation Z's Intention to Visit Indonesia's New Capital City"
+        subtitle: "Maulana Malik, Shu-Hsun Ho"
+        category: Paper Session
+      - time: "15:10 to 15:30"
+        title: "What Drives Filipino Migrant Workers to Leave? Evidence from Taiwan's Labor Market"
+        subtitle: "Rodrigo B. Galarosa, Jr., Tran Kim Ngan, Nguyen Thi Hong Chi"
+        category: Paper Session
