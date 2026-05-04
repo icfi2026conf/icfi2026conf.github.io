@@ -23,6 +23,9 @@ layout: default
                     </h5>
                     <div id="{{ slug }}" class="accordion-collapse collapse show">
                         <div class="accordion-body mt-2">
+                            {% if day.chairs %}
+                            <p class="fw-light text-muted mb-3">{{ day.chairs }}</p>
+                            {% endif %}
                             {% assign categories = site.data.program.legend.categories %}
                             <ul class="list-unstyled ms-3 ms-lg-0 lh-sm">
                                 {% for event in day.events %}

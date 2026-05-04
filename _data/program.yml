@@ -16,21 +16,22 @@ days:
         title: Registration
       - time: "09:40 to 09:45"
         title: "Vice President's Address"
-        subtitle: "Prof. Chao-Hsun Yang"
+        subtitle: "Prof. Chao-Hsun Yang, Providence University"
         category: Opening
       - time: "09:45 to 09:50"
         title: Opening Remarks
-        subtitle: "Prof. Tsai Ying-De, Dean International College"
+        subtitle: "Prof. Yin-Te Tsai, Dean, International College, Providence University"
         category: Opening
       - time: "09:50 to 10:20"
         title: Keynote Speech
-        subtitle: "Prof. Bertrand M.T. Lin"
+        subtitle: "Prof. Bertrand M.T. Lin, National Yang Ming Chiao Tung University"
         category: Keynote
       - time: "10:20 to 10:35"
         title: Tea Break
         category: Break
 
   - name: "Session I — Conference Room, 1F, St. Francis Hall"
+    chairs: "Session Chairs: Prof. Ching-Mei Cheng and Prof. Dai-Yi Wang | Session Host: Prof. Rushikesh Ulhas Khire"
     events:
       - time: "10:35 to 10:55"
         title: "LKAP: LLM-based Knowledge Mapping and Auto-tagging Platform for Programming Education"
@@ -53,6 +54,7 @@ days:
         category: Break
 
   - name: "Session II-A — Conference Room, 1F, St. Francis Hall"
+    chairs: "Session Chairs: Prof. Guo-Chia (Vinnie) Yu and Prof. Yun-Hsi Chang | Session Host: Prof. Shui-Ming Liao"
     events:
       - time: "13:00 to 13:20"
         title: "What Really Drives Airline Loyalty? Evidence from ASEAN and Taiwanese Passengers"
@@ -79,7 +81,7 @@ days:
         category: Paper Session
       - time: "14:50 to 15:10"
         title: "The Role of Cultural Background Among International Students in Taiwan"
-        subtitle: "Tsering Disket, Huang, Daphne Li-Jung"
+        subtitle: "Tsering Disket, Daphne Li-Jung Huang"
         category: Paper Session
       - time: "15:10 to 15:30"
         title: "Environmental Fee Implementation for Local Residents and Tourists"
@@ -87,6 +89,7 @@ days:
         category: Paper Session
 
   - name: "Session II-B — Room 117, 1F, St. Francis Hall"
+    chairs: "Session Chairs: Prof. Daphne Li-Jung Huang and Prof. Su-Jin Lin | Session Host: Prof. Pei-Ling Tsai"
     events:
       - time: "13:00 to 13:20"
         title: "Digital Twin for Predictive Manufacturing of 3D-Printed Sole Molds"
