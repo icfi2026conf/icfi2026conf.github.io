@@ -34,8 +34,8 @@ days:
     chairs: "Session Chairs: Prof. Ching-Mei Cheng and Prof. Dai-Yi Wang | Session Host: Prof. Rushikesh Ulhas Khire"
     events:
       - time: "10:35 to 10:55"
-        title: "LKAP: LLM-based Knowledge Mapping and Auto-tagging Platform for Programming Education"
-        subtitle: "Yueh-Ling Kuo, Jhih-Yun Wu, Hsueh-Ting Chu"
+        title: "Digital Twin for Predictive Manufacturing of 3D-Printed Sole Molds"
+        subtitle: "Yiji Chen, Hsueh-Ting Chu, Hsin-Ming Tseng, Min-Hsuan Li"
         category: Paper Session
       - time: "10:55 to 11:15"
         title: "Agentic AI for Content Creation in Marketing Campaign: A Case Study on Value Chain Analysis"
@@ -92,8 +92,8 @@ days:
     chairs: "Session Chairs: Prof. Daphne Li-Jung Huang and Prof. Su-Jin Lin | Session Host: Prof. Pei-Ling Tsai"
     events:
       - time: "13:00 to 13:20"
-        title: "Digital Twin for Predictive Manufacturing of 3D-Printed Sole Molds"
-        subtitle: "Yiji Chen, Hsueh-Ting Chu, Hsin-Ming Tseng, Min-Hsuan Li"
+        title: "LKAP: LLM-based Knowledge Mapping and Auto-tagging Platform for Programming Education"
+        subtitle: "Yueh-Ling Kuo, Jhih-Yun Wu, Hsueh-Ting Chu"
         category: Paper Session
       - time: "13:20 to 13:40"
         title: "Intention of International Students Participating in the Mazu Festival in Taiwan"
