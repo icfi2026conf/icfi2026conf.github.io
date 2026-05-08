@@ -54,7 +54,7 @@ days:
         category: Break
 
   - name: "Session II-A — Conference Room, 1F, St. Francis Hall"
-    chairs: "Session Chairs: Prof. Daphne Li-Jung Huang | Session Host: Prof. Shui-Ming Liao"
+    chairs: "Session Chairs: Prof. Guo-Chia (Vinnie) Yu and Prof. Huang, Daphne Li-Jung | Session Host: Prof. Shui-Ming Liao"
     events:
       - time: "13:00 to 13:20"
         title: "What Really Drives Airline Loyalty? Evidence from ASEAN and Taiwanese Passengers"
@@ -89,7 +89,7 @@ days:
         category: Paper Session
 
   - name: "Session II-B — Room 117, 1F, St. Francis Hall"
-    chairs: "Session Chairs: Prof. Yun-Hsi Chang | Session Host: Prof. Ching-Mei Cheng"
+    chairs: "Session Chairs: Prof. Yun-Hsi Chang and Prof. Lin Su-Jin | Session Host: Prof. Ching-Mei Cheng"
     events:
       - time: "13:00 to 13:20"
         title: "LKAP: LLM-based Knowledge Mapping and Auto-tagging Platform for Programming Education"
